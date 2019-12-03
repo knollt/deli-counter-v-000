@@ -52,3 +52,4 @@ end
 
 def now_serving (line)
   puts "There is nobody waiting to be served!"
+end  
