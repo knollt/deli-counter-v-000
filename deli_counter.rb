@@ -31,7 +31,10 @@
 # end
 
 def line (line)
+  curr_line = []
   if (line.length ==0)
     puts "The line is currently empty."
-  end  
+  end 
+    puts "The line is currently: #{curr_line.join(" ")}"
+  end
 end  
