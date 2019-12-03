@@ -43,9 +43,8 @@ def line (line)
 end  
 
 katz_deli = []
-def take_a_number(katz_deli,name = 1)
 
- 
+def take_a_number(katz_deli,name = 1)
   katz_deli.push(name)
   puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
 end   
