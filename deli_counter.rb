@@ -41,3 +41,9 @@ def line (line)
     puts "The line is currently: #{curr_line.join(" ")}"
   end
 end  
+
+def take_a_number(katz_deli,name)
+  katz_deli = []
+  katz_deli.push(name)
+  puts ""
+end   
