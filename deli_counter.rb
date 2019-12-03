@@ -42,7 +42,8 @@ def line (line)
   end
 end  
 
-  katz_deli = []
+katz_deli = []
+
 def take_a_number(katz_deli,name)
 
   # katz_deli.push(name)
