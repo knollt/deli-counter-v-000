@@ -43,7 +43,7 @@ def line (line)
 end  
 
 
-def take_a_number(katz_deli,name)
+def take_a_number(katz_deli,name = 1)
 
   katz_deli = []
   katz_deli.push(name)
